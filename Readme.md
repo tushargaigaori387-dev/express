@@ -6,6 +6,8 @@
 
 ## Table of contents
 
+# Tushar
+
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
 - [Features](#features)
